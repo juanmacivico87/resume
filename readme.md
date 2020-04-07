@@ -5,8 +5,11 @@ Desarrollador web backend · WordPress · Plugins · Temas · PHP · Javascript 
 - :mailbox: hola@juanmacivico87.com
 - :computer: https://www.juanmacivico87.com
 - :earth_africa: Madrid, España
+- :bird: @juanmacivico87 (no había emoji de Twitter, sorry)
 
 ## :bust_in_silhouette: Sobre mí
+
+Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un pequeño pueblo de la Costa Tropical de Granada. Soy un apasionado del desarrollo web, la tecnología, los juegos de mesa y los LEGO. Trabajo como desarrollador de plugins y temas. Tengo un blog. Participo activamente en la comunidad de WordPress. ¿Quieres saber más?
 
 ## :wrench: Experiencia
 
