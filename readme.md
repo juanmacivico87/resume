@@ -82,7 +82,7 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 ### Técnico informático (prácticas en empresa)
 :office: MTC Soft
 
-:date: mar. 2008 - jun. 2008
+:date: oct. 2006 - jun. 2008
 
 - Detectar errores en el hardware de un ordenador y repararlos.
 - Instalar el software desarrollado por la empresa en los equipos de los clientes, así como otros software pedidos por los propios clientes
@@ -91,5 +91,47 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 - Actualizar el software en los equipos de los clientes
 
 ## :mortar_board: Formación
+
+### Técnico Superior en Desarrollo de aplicaciones informáticas
+:school_satchel: Escuela Arte Granada
+
+:date: mar. 2008 - jun. 2008
+
+- Análisis y diseño detallado de aplicaciones informáticas
+- Programación orientada a objetos
+- Creación y administración de Bases de Datos con SQL
+- Detectar un error en el hardware de un PC y saber arreglarlo
+- Crear y borrar particiones en un disco duro
+- Hacer copias de seguridad del Sistema Operativo
+
+### Curso de desarrollo de aplicaciones web con PHP
+:school_satchel: Aula mentor
+
+:date: sept. 2010 - dic. 2010
+
+- Desarrollo de proyectos con HTML, CSS, PHP y MySQL
+
+### Curso de AJAX
+:school_satchel: Aula mentor
+
+:date: abr. 2012 - jun. 2012
+
+- Creación y manipulación de hojas de estilo con CSS
+- Desarrollo con Javascript
+- Interacción con objetos DOM
+- Uso de la librería Prototype y JSON
+- Funcionamiento de AJAX y su integración con PHP
+
+### Curso de Community Manager
+:school_satchel: Fundación UNED
+
+:date: oct. 2012 - feb. 2013
+
+- Constitución de una marca
+- Diseño de un Plan Social Media
+- Utilización de herramientas como Tweetdeck o Hootsuite
+- Estrategias para escribir en foros y blogs
+- Definición de métricas y KPI’s
+- Monitorización de una marca
 
 ## :muscle: Voluntariado
