@@ -135,3 +135,71 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 - Monitorización de una marca
 
 ## :muscle: Voluntariado
+
+### Co-organizador de WordPress Madrid
+:family: Meetup
+
+:date: ene. 2020
+
+- Buscar ponentes, patrocinadores y venue para realizar las charlas en el grupo de Meetup de WPMadrid
+
+### Co-organizador de WordPress Alcobendas
+:family: Meetup
+
+:date: feb. 2019
+
+- Buscar ponentes, patrocinadores y venue para realizar las charlas en el grupo de Meetup de WPAlcobendas
+
+### Organizador de WordCamp
+:family: WordPress
+
+:date: oct. 2019
+
+- Organización del equipo de voluntarios para WordCamp Madrid 2020
+- Miembro del equipo de organización de ponentes para WordCamp España Online 2020
+
+### Voluntario en WordCamp
+:family: WordPress
+
+:date: ene. 2019
+
+- Preparar bolsas de regalo
+- Registrar a los asistentes y entregarles su acreditación
+- Informar a los asistentes
+- Asistir a los ponentes
+- Tareas de vigilancia y limpieza
+
+Hasta ahora he desempeñado esta labor en las WordCamps:
+
+- Zaragoza 2019 y 2020
+- Madrid 2019
+- Irún 2019
+- Sevilla 2019
+- Valladolid 2020
+- Málaga 2020
+
+### Ponente en WordCamp
+:family: WordPress
+
+:date: nov. 2018
+
+- [Haz un presupuesto que venda, pero sin quedarte vendido (WordCamp Granada 2018)](https://wordpress.tv/2018/11/26/juan-manuel-civico-haz-un-presupuesto-que-venda-pero-sin-quedarte-vendido/)
+
+- [Archivo wp-config vitaminado: No te conformes con lo que viene por defecto, ¡optimízalo! (WordCamp Granada 2019)](https://wordpress.tv/2019/12/18/juan-manuel-civico-archivo-wp-config-vitaminado-no-te-conformes-con-lo-que-viene-por-defecto-optimizalo/)
+
+### Ponente en Meetup
+:family: WordPress
+
+:date: ene. 2018
+
+- Obligaciones legales en los sitios web (WPGranada - ene. 2018)
+- Adaptar una web al nuevo RGPD / GDPR (WPMálaga - jun. 2018)
+- Haz un presupuesto que venda, pero sin quedarte vendido (WPAlcobendas - ene. 2019)
+- Archivo wp-config vitaminado: No te conformes con lo que viene por defecto, ¡optimízalo! (WPMóstoles - may. 2019 / WPMadrid - oct. 2019)
+
+### Co-organizador de Yunemy
+:family: Meetup
+
+:date: sept. 2017 - mar. 2018
+
+- Buscar ponentes, patrocinadores y venue para realizar las charlas en el grupo de Meetup "Yunemy - desarrollo web"
