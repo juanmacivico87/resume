@@ -135,8 +135,6 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 - Definición de métricas y KPI’s
 - Monitorización de una marca
 
-## :muscle: Voluntariado
-
 ## :bar_chart: Skills
 
 ### Herramientas y tecnologías
@@ -160,6 +158,8 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 
 - Español
 - Inglés (leído y escrito)
+
+## :muscle: Voluntariado
 
 ### Co-organizador de WordPress Madrid
 :family: Meetup
