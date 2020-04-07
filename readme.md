@@ -144,6 +144,7 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 - SQL
 - HTML
 - Javascript
+- Git
 
 ### Aptitudes
 
