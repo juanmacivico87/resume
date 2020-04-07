@@ -137,6 +137,30 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 
 ## :muscle: Voluntariado
 
+## :bar_chart: Skills
+
+### Herramientas y tecnologías
+
+- WordPress
+- PHP
+- SQL
+- HTML
+- Javascript
+
+### Aptitudes
+
+- Trabajo en equipo
+- Liderazgo
+- Resolución de conflictos
+- Responsable
+- Organizado
+- Puntual
+
+### Idiomas
+
+- Español
+- Inglés (leído y escrito)
+
 ### Co-organizador de WordPress Madrid
 :family: Meetup
 
