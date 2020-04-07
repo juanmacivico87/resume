@@ -6,6 +6,7 @@ Desarrollador web backend · WordPress · Plugins · Temas · PHP · Javascript 
 - :computer: https://www.juanmacivico87.com
 - :earth_africa: Madrid, España
 - :bird: @juanmacivico87 (no había emoji de Twitter, sorry)
+- :mag_right: https://www.linkedin.com/in/juanmacivico87/
 
 ## :bust_in_silhouette: Sobre mí
 
