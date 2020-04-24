@@ -83,7 +83,7 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 ### Técnico informático (prácticas en empresa)
 :office: MTC Soft
 
-:date: oct. 2006 - jun. 2008
+:date: mar. 2008 - jun. 2008
 
 - Detectar errores en el hardware de un ordenador y repararlos.
 - Instalar el software desarrollado por la empresa en los equipos de los clientes, así como otros software pedidos por los propios clientes
@@ -96,7 +96,7 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 ### Técnico Superior en Desarrollo de aplicaciones informáticas
 :school_satchel: Escuela Arte Granada
 
-:date: mar. 2008 - jun. 2008
+:date: oct. 2006 - jun. 2008
 
 - Análisis y diseño detallado de aplicaciones informáticas
 - Programación orientada a objetos
