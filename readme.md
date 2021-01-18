@@ -15,6 +15,17 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 ## :wrench: Experiencia
 
 ### Desarrollador web backend
+
+:office: Gyoza Studio
+
+:date: jun. 2020 - dic. 2020
+
+- Desarrollar plugins a medida para WordPress
+- Desarrollar temas a medida para WordPress
+- Desarrollar API's con Symfony
+
+### Desarrollador web backend
+
 :office: Nateevo Digital
 
 :date: dic. 2018 - abr. 2020
