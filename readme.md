@@ -1,7 +1,7 @@
 # Juan Manuel Civico Cabrera
 Desarrollador web backend · WordPress · Plugins · Temas · PHP · Javascript · MySQL
 
-- :baby: 29/07/1987 (32 años)
+- :baby: 29/07/1987 (33 años)
 - :mailbox: hola@juanmacivico87.com
 - :computer: https://www.juanmacivico87.com
 - :earth_africa: Madrid, España
