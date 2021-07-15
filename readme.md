@@ -16,6 +16,14 @@ Mis amigos me llaman JuanMa. Nací en julio de 1987. Vengo de Carchuna, un peque
 
 ### Desarrollador web backend
 
+:office: Dapda SL
+
+:date: abr. 2021 - actualidad
+
+- Desarrollar plugins a medida para WordPress
+
+### Desarrollador web backend
+
 :office: Gyoza Studio
 
 :date: jun. 2020 - dic. 2020
